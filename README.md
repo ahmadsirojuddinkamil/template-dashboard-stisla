@@ -1,12 +1,15 @@
-# 🍎 Responsive Juice Website Design
-## [Watch it on youtube](https://youtu.be/0FF6yY0lgjY)
-### 🍎 Responsive Juice Website Design
+# Free Bootstrap Admin Template 
+Stisla is Free Bootstrap Admin Template and will help you to speed up your project, design your own dashboard UI and the users will love it.
 
-- Responsive Juice Website Design Using HTML CSS & JavaScript
-- Contains CSS & GSAP animations.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+More info: https://getstisla.com
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+![Stisla Preview](https://i.ibb.co/6tdmcX0/2018-11-11-15-35-getstisla-com.png)
 
-![preview img](/preview.png)
+# Roadmap
+You can find the Stisla road map here: https://trello.com/b/M8TMnehE/stisla-roadmap
+
+# Contributing
+The contribution guide is still in progress :)
+
+# License
+Stisla is under the MIT license
